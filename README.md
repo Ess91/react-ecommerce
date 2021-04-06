@@ -1,2 +1,2 @@
-# React_e-commerce
-Created with CodeSandbox
+# React E-Commerce Website
+Created with CodeSandbox 
