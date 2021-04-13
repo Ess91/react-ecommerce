@@ -21,6 +21,18 @@ This is a fully functional react E-Commerce website which displays the items and
    
 2. Install all dependencies listed in the ```package.json``` file, this should be now ready for you to customise it and make it your own!  
 
+
+### Tech Stack
+
+ReactJS, HTML & CSS
+
+### Features
+
+* Adding Stock inventories via Commerce.js
+* Checkout & Review Stage
+* Entering of Card details
+* Order Confirmation with order references
+
    
    
 
