@@ -30,7 +30,7 @@ ReactJS, HTML & CSS
 
 * Adding Stock inventories via Commerce.js
 * Checkout & Review Stage
-* Entering of Card details
+* Entering of Card Payment details
 * Order Confirmation with order references
 
    
