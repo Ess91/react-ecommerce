@@ -15,11 +15,12 @@ This is a fully functional react E-Commerce website which displays the items and
    1. Download it through the Github CLI - More information on [Github CLI](https://cli.github.com/)
 
 
-   Once you've found a suitable folder on your local computer for your forked repository, 
+   Find a suitable folder on your local computer for your forked repository and then,
    
    
    
 2. Install all dependencies listed in the ```package.json``` file, this should be now ready for you to customise it and make it your own!  
+3. To run the app after installation, type ```npm start``` in your terminal
 
 
 ### Tech Stack
