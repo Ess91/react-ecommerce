@@ -20,7 +20,7 @@ This is a fully functional react E-Commerce website which displays the items and
    
    
 2. Install all dependencies listed in the ```package.json``` file, this should be now ready for you to customise it and make it your own!  
-3. To run the app after installation, type ```npm start``` in your terminal
+3.To run the app after installation, type ```npm start``` in your terminal, http://localhost:3000 should automatically open in your browser, if not, manually type it to view in your browser.
 
 
 ### Tech Stack
