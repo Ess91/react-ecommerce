@@ -27,6 +27,10 @@ This is a fully functional react E-Commerce website which displays the items and
 
 ReactJS, HTML & CSS
 
+#### Additional Technologies
+
+Commerce.js & Stripe
+
 ### Features
 
 * Adding Stock inventories via Commerce.js
