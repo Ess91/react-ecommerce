@@ -19,8 +19,8 @@ This is a fully functional react E-Commerce website which displays the items and
    
    
    
-2. Install all dependecies listed in the ```package.json``` file   
-   you can now customise it and make it your own.
+2. Install all dependencies listed in the ```package.json``` file, this should be now ready for you to customise it and make it your own!  
+
    
    
 
